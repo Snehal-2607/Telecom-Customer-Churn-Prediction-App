@@ -1,10 +1,9 @@
 # Telecom-Customer-Churn-Prediction-App
 
 ![Customer Churn Prediction App](https://github.com/user-attachments/assets/07632185-a76f-467b-9413-a6e37c910f39)
+End-to-end Telecom Churn Prediction web app built with Python, Scikit-learn, and Streamlit. Includes data preprocessing, model training, and interactive prediction interface.
 
 ## Deployed Link : https://telecom-customer-churn-prediction-app-anhdypzbwcmalojetxwchz.streamlit.app/
-
-End-to-end Telecom Churn Prediction web app built with Python, Scikit-learn, and Streamlit. Includes data preprocessing, model training, and interactive prediction interface.
 
 ## Table of Contents
 
